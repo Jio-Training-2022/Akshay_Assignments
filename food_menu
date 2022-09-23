@@ -1,0 +1,4 @@
+
+# Menu= ["Dal rice", "Papad", "Biryani", "Salad"]
+order=(input("Enter the Desired Dish: Dal rice, Papad, Biryani, Salad "))
+Menu= print(order)
